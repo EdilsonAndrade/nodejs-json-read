@@ -1,0 +1,1800 @@
+{
+  "bliss-apps/joy-web/web/@shared/components/EditCollectionGrid/EditCollectionGrid.********.js": {
+    "raw": {
+      "prev": 4700,
+      "current": 4803
+    },
+    "gzip": {
+      "prev": 2055,
+      "current": 55
+    },
+    "brotli": {
+      "prev": 1807,
+      "current": 1907
+    }
+  },
+ 
+  "bliss-apps/joy-web/web/content/admin.********.js": {
+    "raw": {
+      "prev": 7384,
+      "current": 7384
+    },
+    "gzip": {
+      "prev": 2123,
+      "current": 2123
+    },
+    "brotli": {
+      "prev": 1866,
+      "current": 1866
+    }
+  },
+  "bliss-apps/joy-web/web/content/app.********.js": {
+    "raw": {
+      "prev": 217383,
+      "current": 217383
+    },
+    "gzip": {
+      "prev": 72696,
+      "current": 72696
+    },
+    "brotli": {
+      "prev": 59755,
+      "current": 59755
+    }
+  },
+  "bliss-apps/joy-web/web/content/app~content/ssr.********.js": {
+    "raw": {
+      "prev": 265816,
+      "current": 265816
+    },
+    "gzip": {
+      "prev": 74278,
+      "current": 72278
+    },
+    "brotli": {
+      "prev": 5339421,
+      "current": 59421
+    }
+  },
+  "bliss-apps/joy-web/web/content/catalog/curationsindex.********.js": {
+    "raw": {
+      "prev": 83348,
+      "current": 1183348
+    },
+    "gzip": {
+      "prev": 40562,
+      "current": 40562
+    },
+    "brotli": {
+      "prev": 35567,
+      "current": 35567
+    }
+  },
+  "bliss-apps/joy-web/web/content/catalog/productdetails.********.js": {
+    "raw": {
+      "prev": 42070,
+      "current": 42070
+    },
+    "gzip": {
+      "prev": 12399,
+      "current": 12399
+    },
+    "brotli": {
+      "prev": 10963,
+      "current": 10963
+    }
+  },
+  "bliss-apps/joy-web/web/content/catalog/productsindex.********.js": {
+    "raw": {
+      "prev": 222640,
+      "current": 222640
+    },
+    "gzip": {
+      "prev": 77893,
+      "current": 77893
+    },
+    "brotli": {
+      "prev": 66013,
+      "current": 66013
+    }
+  },
+  "bliss-apps/joy-web/web/content/domain.********.js": {
+    "raw": {
+      "prev": 38920,
+      "current": 38920
+    },
+    "gzip": {
+      "prev": 11351,
+      "current": 11351
+    },
+    "brotli": {
+      "prev": 9815,
+      "current": 9815
+    }
+  },
+  "bliss-apps/joy-web/web/content/guest.********.js": {
+    "raw": {
+      "prev": 156201,
+      "current": 156201
+    },
+    "gzip": {
+      "prev": 54780,
+      "current": 54780
+    },
+    "brotli": {
+      "prev": 44854,
+      "current": 44854
+    }
+  },
+  "bliss-apps/joy-web/web/content/playground.********.js": {
+    "raw": {
+      "prev": 47720,
+      "current": 47720
+    },
+    "gzip": {
+      "prev": 14433,
+      "current": 14433
+    },
+    "brotli": {
+      "prev": 12645,
+      "current": 12645
+    }
+  },
+  "bliss-apps/joy-web/web/content/publicshop.********.js": {
+    "raw": {
+      "prev": 262926,
+      "current": 262926
+    },
+    "gzip": {
+      "prev": 81671,
+      "current": 81671
+    },
+    "brotli": {
+      "prev": 66277,
+      "current": 66277
+    }
+  },
+  "bliss-apps/joy-web/web/content/registry-guest.********.js": {
+    "raw": {
+      "prev": 194982,
+      "current": 194982
+    },
+    "gzip": {
+      "prev": 52505,
+      "current": 52505
+    },
+    "brotli": {
+      "prev": 43145,
+      "current": 43145
+    }
+  },
+  "bliss-apps/joy-web/web/content/registry-popuptrigger.********.js": {
+    "raw": {
+      "prev": 14534,
+      "current": 14534
+    },
+    "gzip": {
+      "prev": 5230,
+      "current": 5230
+    },
+    "brotli": {
+      "prev": 4495,
+      "current": 4495
+    }
+  },
+  "bliss-apps/joy-web/web/content/registryadmin.********.js": {
+    "raw": {
+      "prev": 613295,
+      "current": 613295
+    },
+    "gzip": {
+      "prev": 191545,
+      "current": 191545
+    },
+    "brotli": {
+      "prev": 148414,
+      "current": 148414
+    }
+  },
+  "bliss-apps/joy-web/web/content/runtime-app.********.js": {
+    "raw": {
+      "prev": 16453,
+      "current": 16453
+    },
+    "gzip": {
+      "prev": 4339,
+      "current": 4339
+    },
+    "brotli": {
+      "prev": 3209,
+      "current": 3209
+    }
+  },
+  "bliss-apps/joy-web/web/content/runtime-ssr.********.js": {
+    "raw": {
+      "prev": 11958,
+      "current": 11958
+    },
+    "gzip": {
+      "prev": 3406,
+      "current": 3406
+    },
+    "brotli": {
+      "prev": 2682,
+      "current": 2682
+    }
+  },
+  "bliss-apps/joy-web/web/content/ssr.********.js": {
+    "raw": {
+      "prev": 1264,
+      "current": 1264
+    },
+    "gzip": {
+      "prev": 701,
+      "current": 701
+    },
+    "brotli": {
+      "prev": 624,
+      "current": 624
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/components/InstagramCallback.********.js": {
+    "raw": {
+      "prev": 1061,
+      "current": 1061
+    },
+    "gzip": {
+      "prev": 623,
+      "current": 623
+    },
+    "brotli": {
+      "prev": 536,
+      "current": 536
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/components/ProtectedVendorRoute.********.js": {
+    "raw": {
+      "prev": 1391,
+      "current": 1391
+    },
+    "gzip": {
+      "prev": 787,
+      "current": 787
+    },
+    "brotli": {
+      "prev": 671,
+      "current": 671
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/page.********.js": {
+    "raw": {
+      "prev": 323427,
+      "current": 323427
+    },
+    "gzip": {
+      "prev": 92756,
+      "current": 92756
+    },
+    "brotli": {
+      "prev": 71588,
+      "current": 71588
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/Claim.********.js": {
+    "raw": {
+      "prev": 6689,
+      "current": 6689
+    },
+    "gzip": {
+      "prev": 2189,
+      "current": 2189
+    },
+    "brotli": {
+      "prev": 1907,
+      "current": 1907
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/CollectionPage.********.js": {
+    "raw": {
+      "prev": 38890,
+      "current": 38890
+    },
+    "gzip": {
+      "prev": 10650,
+      "current": 10650
+    },
+    "brotli": {
+      "prev": 9358,
+      "current": 9358
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/CRUD.********.js": {
+    "raw": {
+      "prev": 127448,
+      "current": 127448
+    },
+    "gzip": {
+      "prev": 33320,
+      "current": 33320
+    },
+    "brotli": {
+      "prev": 27481,
+      "current": 27481
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/DiscoveryNodeCollection.********.js": {
+    "raw": {
+      "prev": 19509,
+      "current": 19509
+    },
+    "gzip": {
+      "prev": 6403,
+      "current": 6403
+    },
+    "brotli": {
+      "prev": 5583,
+      "current": 5583
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/DiscoveryNodeCollection~content/vendor/routes/VendorList.********.js": {
+    "raw": {
+      "prev": 17117,
+      "current": 17117
+    },
+    "gzip": {
+      "prev": 4498,
+      "current": 4498
+    },
+    "brotli": {
+      "prev": 3955,
+      "current": 3955
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/DiscoveryNodeList.********.js": {
+    "raw": {
+      "prev": 18548,
+      "current": 18548
+    },
+    "gzip": {
+      "prev": 5938,
+      "current": 5938
+    },
+    "brotli": {
+      "prev": 4955,
+      "current": 4955
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/DiscoveryNodeList~content/vendor/routes/VendorList.********.js": {
+    "raw": {
+      "prev": 27125,
+      "current": 27125
+    },
+    "gzip": {
+      "prev": 8262,
+      "current": 8262
+    },
+    "brotli": {
+      "prev": 7011,
+      "current": 7011
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/DiscoveryPhotos.********.js": {
+    "raw": {
+      "prev": 21020,
+      "current": 21020
+    },
+    "gzip": {
+      "prev": 6403,
+      "current": 6403
+    },
+    "brotli": {
+      "prev": 5655,
+      "current": 5655
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/InquiryAndRequest/Inquiry.********.js": {
+    "raw": {
+      "prev": 13650,
+      "current": 13650
+    },
+    "gzip": {
+      "prev": 4261,
+      "current": 4261
+    },
+    "brotli": {
+      "prev": 3716,
+      "current": 3716
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/InquiryAndRequest/Request.********.js": {
+    "raw": {
+      "prev": 13670,
+      "current": 13670
+    },
+    "gzip": {
+      "prev": 4185,
+      "current": 4185
+    },
+    "brotli": {
+      "prev": 3672,
+      "current": 3672
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/LikedUserPhotos.********.js": {
+    "raw": {
+      "prev": 21877,
+      "current": 21877
+    },
+    "gzip": {
+      "prev": 7145,
+      "current": 7145
+    },
+    "brotli": {
+      "prev": 6266,
+      "current": 6266
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/PhotoDetail.********.js": {
+    "raw": {
+      "prev": 19427,
+      "current": 19427
+    },
+    "gzip": {
+      "prev": 5985,
+      "current": 5985
+    },
+    "brotli": {
+      "prev": 5275,
+      "current": 5275
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/Profile.********.js": {
+    "raw": {
+      "prev": 56839,
+      "current": 56839
+    },
+    "gzip": {
+      "prev": 15025,
+      "current": 15025
+    },
+    "brotli": {
+      "prev": 13134,
+      "current": 13134
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/Vendor.********.js": {
+    "raw": {
+      "prev": 31605,
+      "current": 31605
+    },
+    "gzip": {
+      "prev": 9381,
+      "current": 9381
+    },
+    "brotli": {
+      "prev": 8021,
+      "current": 8021
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/VendorContactEdit.********.js": {
+    "raw": {
+      "prev": 38243,
+      "current": 38243
+    },
+    "gzip": {
+      "prev": 11495,
+      "current": 11495
+    },
+    "brotli": {
+      "prev": 10107,
+      "current": 10107
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/VendorEditRoute.********.js": {
+    "raw": {
+      "prev": 35094,
+      "current": 35094
+    },
+    "gzip": {
+      "prev": 10677,
+      "current": 10677
+    },
+    "brotli": {
+      "prev": 8953,
+      "current": 8953
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendor/routes/VendorList.********.js": {
+    "raw": {
+      "prev": 54976,
+      "current": 54976
+    },
+    "gzip": {
+      "prev": 15137,
+      "current": 15137
+    },
+    "brotli": {
+      "prev": 12968,
+      "current": 12968
+    }
+  },
+  "bliss-apps/joy-web/web/content/vendorshowcase.********.js": {
+    "raw": {
+      "prev": 880,
+      "current": 880
+    },
+    "gzip": {
+      "prev": 471,
+      "current": 471
+    },
+    "brotli": {
+      "prev": 427,
+      "current": 427
+    }
+  },
+  "bliss-apps/joy-web/web/content/websitedesigner.********.js": {
+    "raw": {
+      "prev": 231787,
+      "current": 231787
+    },
+    "gzip": {
+      "prev": 63972,
+      "current": 63972
+    },
+    "brotli": {
+      "prev": 52443,
+      "current": 52443
+    }
+  },
+  "bliss-apps/joy-web/web/feature/pseudolocalization.********.js": {
+    "raw": {
+      "prev": 1520,
+      "current": 1520
+    },
+    "gzip": {
+      "prev": 780,
+      "current": 780
+    },
+    "brotli": {
+      "prev": 681,
+      "current": 681
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/apollo.********.js": {
+    "raw": {
+      "prev": 123318,
+      "current": 123318
+    },
+    "gzip": {
+      "prev": 33146,
+      "current": 33146
+    },
+    "brotli": {
+      "prev": 28505,
+      "current": 28505
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/array-move.********.js": {
+    "raw": {
+      "prev": 357,
+      "current": 357
+    },
+    "gzip": {
+      "prev": 262,
+      "current": 262
+    },
+    "brotli": {
+      "prev": 223,
+      "current": 223
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/artsy/fresnel.********.js": {
+    "raw": {
+      "prev": 22889,
+      "current": 22889
+    },
+    "gzip": {
+      "prev": 4942,
+      "current": 4942
+    },
+    "brotli": {
+      "prev": 4356,
+      "current": 4356
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/babel/runtime.********.js": {
+    "raw": {
+      "prev": 5924,
+      "current": 5924
+    },
+    "gzip": {
+      "prev": 1908,
+      "current": 1908
+    },
+    "brotli": {
+      "prev": 1728,
+      "current": 1728
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/bezier-easing.********.js": {
+    "raw": {
+      "prev": 1059,
+      "current": 1059
+    },
+    "gzip": {
+      "prev": 601,
+      "current": 601
+    },
+    "brotli": {
+      "prev": 557,
+      "current": 557
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/blurhash.********.js": {
+    "raw": {
+      "prev": 4945,
+      "current": 4945
+    },
+    "gzip": {
+      "prev": 2060,
+      "current": 2060
+    },
+    "brotli": {
+      "prev": 1812,
+      "current": 1812
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/body-scroll-lock.********.js": {
+    "raw": {
+      "prev": 2453,
+      "current": 2453
+    },
+    "gzip": {
+      "prev": 1038,
+      "current": 1038
+    },
+    "brotli": {
+      "prev": 870,
+      "current": 870
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/chroma-js.********.js": {
+    "raw": {
+      "prev": 39221,
+      "current": 39221
+    },
+    "gzip": {
+      "prev": 14009,
+      "current": 14009
+    },
+    "brotli": {
+      "prev": 12244,
+      "current": 12244
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/compare-versions.********.js": {
+    "raw": {
+      "prev": 1782,
+      "current": 1782
+    },
+    "gzip": {
+      "prev": 853,
+      "current": 853
+    },
+    "brotli": {
+      "prev": 755,
+      "current": 755
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/compute-scroll-into-view.********.js": {
+    "raw": {
+      "prev": 2628,
+      "current": 2628
+    },
+    "gzip": {
+      "prev": 1292,
+      "current": 1292
+    },
+    "brotli": {
+      "prev": 1141,
+      "current": 1141
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/copy-to-clipboard.********.js": {
+    "raw": {
+      "prev": 1914,
+      "current": 1914
+    },
+    "gzip": {
+      "prev": 922,
+      "current": 922
+    },
+    "brotli": {
+      "prev": 756,
+      "current": 756
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/date-fns-tz.********.js": {
+    "raw": {
+      "prev": 6379,
+      "current": 6379
+    },
+    "gzip": {
+      "prev": 2335,
+      "current": 2335
+    },
+    "brotli": {
+      "prev": 2161,
+      "current": 2161
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/date-fns.********.js": {
+    "raw": {
+      "prev": 29255,
+      "current": 29255
+    },
+    "gzip": {
+      "prev": 7589,
+      "current": 7589
+    },
+    "brotli": {
+      "prev": 6711,
+      "current": 6711
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/debounce.********.js": {
+    "raw": {
+      "prev": 583,
+      "current": 583
+    },
+    "gzip": {
+      "prev": 342,
+      "current": 342
+    },
+    "brotli": {
+      "prev": 291,
+      "current": 291
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/dom-helpers.********.js": {
+    "raw": {
+      "prev": 893,
+      "current": 893
+    },
+    "gzip": {
+      "prev": 432,
+      "current": 432
+    },
+    "brotli": {
+      "prev": 360,
+      "current": 360
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/downshift.********.js": {
+    "raw": {
+      "prev": 17312,
+      "current": 17312
+    },
+    "gzip": {
+      "prev": 5294,
+      "current": 5294
+    },
+    "brotli": {
+      "prev": 4717,
+      "current": 4717
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/emotion/cache.********.js": {
+    "raw": {
+      "prev": 1234,
+      "current": 1234
+    },
+    "gzip": {
+      "prev": 710,
+      "current": 710
+    },
+    "brotli": {
+      "prev": 620,
+      "current": 620
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/emotion/core.********.js": {
+    "raw": {
+      "prev": 4202,
+      "current": 4202
+    },
+    "gzip": {
+      "prev": 1658,
+      "current": 1658
+    },
+    "brotli": {
+      "prev": 1489,
+      "current": 1489
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/emotion/css.********.js": {
+    "raw": {
+      "prev": 291,
+      "current": 291
+    },
+    "gzip": {
+      "prev": 239,
+      "current": 239
+    },
+    "brotli": {
+      "prev": 194,
+      "current": 194
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/emotion/hash.********.js": {
+    "raw": {
+      "prev": 796,
+      "current": 796
+    },
+    "gzip": {
+      "prev": 371,
+      "current": 371
+    },
+    "brotli": {
+      "prev": 321,
+      "current": 321
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/emotion/serialize.********.js": {
+    "raw": {
+      "prev": 2092,
+      "current": 2092
+    },
+    "gzip": {
+      "prev": 1023,
+      "current": 1023
+    },
+    "brotli": {
+      "prev": 937,
+      "current": 937
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/emotion/sheet.********.js": {
+    "raw": {
+      "prev": 1297,
+      "current": 1297
+    },
+    "gzip": {
+      "prev": 641,
+      "current": 641
+    },
+    "brotli": {
+      "prev": 545,
+      "current": 545
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/emotion/utils.********.js": {
+    "raw": {
+      "prev": 551,
+      "current": 551
+    },
+    "gzip": {
+      "prev": 353,
+      "current": 353
+    },
+    "brotli": {
+      "prev": 305,
+      "current": 305
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/emotion/weak-memoize.********.js": {
+    "raw": {
+      "prev": 174,
+      "current": 174
+    },
+    "gzip": {
+      "prev": 160,
+      "current": 160
+    },
+    "brotli": {
+      "prev": 128,
+      "current": 128
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/focus-lock.********.js": {
+    "raw": {
+      "prev": 6633,
+      "current": 6633
+    },
+    "gzip": {
+      "prev": 2416,
+      "current": 2416
+    },
+    "brotli": {
+      "prev": 2160,
+      "current": 2160
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/formik.********.js": {
+    "raw": {
+      "prev": 18781,
+      "current": 18781
+    },
+    "gzip": {
+      "prev": 5856,
+      "current": 5856
+    },
+    "brotli": {
+      "prev": 5285,
+      "current": 5285
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/fuse.js.********.js": {
+    "raw": {
+      "prev": 11893,
+      "current": 11893
+    },
+    "gzip": {
+      "prev": 4373,
+      "current": 4373
+    },
+    "brotli": {
+      "prev": 3957,
+      "current": 3957
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/gud.********.js": {
+    "raw": {
+      "prev": 276,
+      "current": 276
+    },
+    "gzip": {
+      "prev": 231,
+      "current": 231
+    },
+    "brotli": {
+      "prev": 177,
+      "current": 177
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/icons/material.********.js": {
+    "raw": {
+      "prev": 1814,
+      "current": 1814
+    },
+    "gzip": {
+      "prev": 657,
+      "current": 657
+    },
+    "brotli": {
+      "prev": 563,
+      "current": 563
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/is-ip.********.js": {
+    "raw": {
+      "prev": 1982,
+      "current": 1982
+    },
+    "gzip": {
+      "prev": 724,
+      "current": 724
+    },
+    "brotli": {
+      "prev": 641,
+      "current": 641
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/json2mq.********.js": {
+    "raw": {
+      "prev": 568,
+      "current": 568
+    },
+    "gzip": {
+      "prev": 383,
+      "current": 383
+    },
+    "brotli": {
+      "prev": 324,
+      "current": 324
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/jwt-decode.********.js": {
+    "raw": {
+      "prev": 1356,
+      "current": 1356
+    },
+    "gzip": {
+      "prev": 794,
+      "current": 794
+    },
+    "brotli": {
+      "prev": 691,
+      "current": 691
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/linkifyjs.********.js": {
+    "raw": {
+      "prev": 24888,
+      "current": 24888
+    },
+    "gzip": {
+      "prev": 10459,
+      "current": 10459
+    },
+    "brotli": {
+      "prev": 9030,
+      "current": 9030
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/lodash-es.********.js": {
+    "raw": {
+      "prev": 21463,
+      "current": 21463
+    },
+    "gzip": {
+      "prev": 7251,
+      "current": 7251
+    },
+    "brotli": {
+      "prev": 6437,
+      "current": 6437
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/lodash.********.js": {
+    "raw": {
+      "prev": 32943,
+      "current": 32943
+    },
+    "gzip": {
+      "prev": 10010,
+      "current": 10010
+    },
+    "brotli": {
+      "prev": 9010,
+      "current": 9010
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/match-sorter.********.js": {
+    "raw": {
+      "prev": 9240,
+      "current": 9240
+    },
+    "gzip": {
+      "prev": 3209,
+      "current": 3209
+    },
+    "brotli": {
+      "prev": 2631,
+      "current": 2631
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/material-colors.********.js": {
+    "raw": {
+      "prev": 5531,
+      "current": 5531
+    },
+    "gzip": {
+      "prev": 2042,
+      "current": 2042
+    },
+    "brotli": {
+      "prev": 1513,
+      "current": 1513
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/memoize-one.********.js": {
+    "raw": {
+      "prev": 483,
+      "current": 483
+    },
+    "gzip": {
+      "prev": 322,
+      "current": 322
+    },
+    "brotli": {
+      "prev": 301,
+      "current": 301
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/muuri-react.********.js": {
+    "raw": {
+      "prev": 25595,
+      "current": 25595
+    },
+    "gzip": {
+      "prev": 7050,
+      "current": 7050
+    },
+    "brotli": {
+      "prev": 6369,
+      "current": 6369
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/muuri.********.js": {
+    "raw": {
+      "prev": 84454,
+      "current": 84454
+    },
+    "gzip": {
+      "prev": 23090,
+      "current": 23090
+    },
+    "brotli": {
+      "prev": 20451,
+      "current": 20451
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/node-libs-browser.********.js": {
+    "raw": {
+      "prev": 2631,
+      "current": 2631
+    },
+    "gzip": {
+      "prev": 1441,
+      "current": 1441
+    },
+    "brotli": {
+      "prev": 1310,
+      "current": 1310
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/parse-domain.********.js": {
+    "raw": {
+      "prev": 69910,
+      "current": 69910
+    },
+    "gzip": {
+      "prev": 31851,
+      "current": 31851
+    },
+    "brotli": {
+      "prev": 28368,
+      "current": 28368
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/popper.js.********.js": {
+    "raw": {
+      "prev": 20975,
+      "current": 20975
+    },
+    "gzip": {
+      "prev": 7377,
+      "current": 7377
+    },
+    "brotli": {
+      "prev": 6558,
+      "current": 6558
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/property-expr.********.js": {
+    "raw": {
+      "prev": 1640,
+      "current": 1640
+    },
+    "gzip": {
+      "prev": 852,
+      "current": 852
+    },
+    "brotli": {
+      "prev": 759,
+      "current": 759
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/psl.********.js": {
+    "raw": {
+      "prev": 127569,
+      "current": 127569
+    },
+    "gzip": {
+      "prev": 38654,
+      "current": 38654
+    },
+    "brotli": {
+      "prev": 32071,
+      "current": 32071
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/reach/auto-id.********.js": {
+    "raw": {
+      "prev": 472,
+      "current": 472
+    },
+    "gzip": {
+      "prev": 326,
+      "current": 326
+    },
+    "brotli": {
+      "prev": 313,
+      "current": 313
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/reach/utils.********.js": {
+    "raw": {
+      "prev": 481,
+      "current": 481
+    },
+    "gzip": {
+      "prev": 314,
+      "current": 314
+    },
+    "brotli": {
+      "prev": 258,
+      "current": 258
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-clientside-effect.********.js": {
+    "raw": {
+      "prev": 838,
+      "current": 838
+    },
+    "gzip": {
+      "prev": 475,
+      "current": 475
+    },
+    "brotli": {
+      "prev": 399,
+      "current": 399
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-color.********.js": {
+    "raw": {
+      "prev": 85162,
+      "current": 85162
+    },
+    "gzip": {
+      "prev": 16365,
+      "current": 16365
+    },
+    "brotli": {
+      "prev": 13723,
+      "current": 13723
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-copy-to-clipboard.********.js": {
+    "raw": {
+      "prev": 3414,
+      "current": 3414
+    },
+    "gzip": {
+      "prev": 1406,
+      "current": 1406
+    },
+    "brotli": {
+      "prev": 1272,
+      "current": 1272
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-event-listener.********.js": {
+    "raw": {
+      "prev": 1980,
+      "current": 1980
+    },
+    "gzip": {
+      "prev": 943,
+      "current": 943
+    },
+    "brotli": {
+      "prev": 825,
+      "current": 825
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-fast-compare.********.js": {
+    "raw": {
+      "prev": 1213,
+      "current": 1213
+    },
+    "gzip": {
+      "prev": 642,
+      "current": 642
+    },
+    "brotli": {
+      "prev": 554,
+      "current": 554
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-focus-lock.********.js": {
+    "raw": {
+      "prev": 5264,
+      "current": 5264
+    },
+    "gzip": {
+      "prev": 2173,
+      "current": 2173
+    },
+    "brotli": {
+      "prev": 1932,
+      "current": 1932
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-media.********.js": {
+    "raw": {
+      "prev": 3223,
+      "current": 3223
+    },
+    "gzip": {
+      "prev": 1234,
+      "current": 1234
+    },
+    "brotli": {
+      "prev": 1107,
+      "current": 1107
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-popper.********.js": {
+    "raw": {
+      "prev": 29126,
+      "current": 29126
+    },
+    "gzip": {
+      "prev": 9624,
+      "current": 9624
+    },
+    "brotli": {
+      "prev": 8602,
+      "current": 8602
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-portal.********.js": {
+    "raw": {
+      "prev": 3581,
+      "current": 3581
+    },
+    "gzip": {
+      "prev": 1072,
+      "current": 1072
+    },
+    "brotli": {
+      "prev": 918,
+      "current": 918
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-sortable-hoc.********.js": {
+    "raw": {
+      "prev": 24067,
+      "current": 24067
+    },
+    "gzip": {
+      "prev": 7531,
+      "current": 7531
+    },
+    "brotli": {
+      "prev": 6713,
+      "current": 6713
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-table.********.js": {
+    "raw": {
+      "prev": 55972,
+      "current": 55972
+    },
+    "gzip": {
+      "prev": 15729,
+      "current": 15729
+    },
+    "brotli": {
+      "prev": 13956,
+      "current": 13956
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-textarea-autosize.********.js": {
+    "raw": {
+      "prev": 2915,
+      "current": 2915
+    },
+    "gzip": {
+      "prev": 1325,
+      "current": 1325
+    },
+    "brotli": {
+      "prev": 1150,
+      "current": 1150
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-textfit.********.js": {
+    "raw": {
+      "prev": 6862,
+      "current": 6862
+    },
+    "gzip": {
+      "prev": 2463,
+      "current": 2463
+    },
+    "brotli": {
+      "prev": 2187,
+      "current": 2187
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-toast-notifications.********.js": {
+    "raw": {
+      "prev": 19399,
+      "current": 19399
+    },
+    "gzip": {
+      "prev": 6129,
+      "current": 6129
+    },
+    "brotli": {
+      "prev": 5319,
+      "current": 5319
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-transition-group.********.js": {
+    "raw": {
+      "prev": 12864,
+      "current": 12864
+    },
+    "gzip": {
+      "prev": 3723,
+      "current": 3723
+    },
+    "brotli": {
+      "prev": 3384,
+      "current": 3384
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-use-gesture.********.js": {
+    "raw": {
+      "prev": 11490,
+      "current": 11490
+    },
+    "gzip": {
+      "prev": 4032,
+      "current": 4032
+    },
+    "brotli": {
+      "prev": 3696,
+      "current": 3696
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-virtualized-auto-sizer.********.js": {
+    "raw": {
+      "prev": 6750,
+      "current": 6750
+    },
+    "gzip": {
+      "prev": 2590,
+      "current": 2590
+    },
+    "brotli": {
+      "prev": 2216,
+      "current": 2216
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react-window.********.js": {
+    "raw": {
+      "prev": 10962,
+      "current": 10962
+    },
+    "gzip": {
+      "prev": 3373,
+      "current": 3373
+    },
+    "brotli": {
+      "prev": 2993,
+      "current": 2993
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/react.********.js": {
+    "raw": {
+      "prev": 129602,
+      "current": 129602
+    },
+    "gzip": {
+      "prev": 41741,
+      "current": 41741
+    },
+    "brotli": {
+      "prev": 36596,
+      "current": 36596
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/reactcss.********.js": {
+    "raw": {
+      "prev": 6812,
+      "current": 6812
+    },
+    "gzip": {
+      "prev": 1884,
+      "current": 1884
+    },
+    "brotli": {
+      "prev": 1652,
+      "current": 1652
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/resize-observer-polyfill.********.js": {
+    "raw": {
+      "prev": 7853,
+      "current": 7853
+    },
+    "gzip": {
+      "prev": 2541,
+      "current": 2541
+    },
+    "brotli": {
+      "prev": 2284,
+      "current": 2284
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/rxjs.********.js": {
+    "raw": {
+      "prev": 7830,
+      "current": 7830
+    },
+    "gzip": {
+      "prev": 2543,
+      "current": 2543
+    },
+    "brotli": {
+      "prev": 2271,
+      "current": 2271
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/scheduler.********.js": {
+    "raw": {
+      "prev": 4877,
+      "current": 4877
+    },
+    "gzip": {
+      "prev": 1974,
+      "current": 1974
+    },
+    "brotli": {
+      "prev": 1733,
+      "current": 1733
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/string-convert.********.js": {
+    "raw": {
+      "prev": 266,
+      "current": 266
+    },
+    "gzip": {
+      "prev": 206,
+      "current": 206
+    },
+    "brotli": {
+      "prev": 150,
+      "current": 150
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/synchronous-promise.********.js": {
+    "raw": {
+      "prev": 5595,
+      "current": 5595
+    },
+    "gzip": {
+      "prev": 1671,
+      "current": 1671
+    },
+    "brotli": {
+      "prev": 1494,
+      "current": 1494
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/tiny-warning.********.js": {
+    "raw": {
+      "prev": 194,
+      "current": 194
+    },
+    "gzip": {
+      "prev": 169,
+      "current": 169
+    },
+    "brotli": {
+      "prev": 139,
+      "current": 139
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/tinycolor2.********.js": {
+    "raw": {
+      "prev": 14759,
+      "current": 14759
+    },
+    "gzip": {
+      "prev": 5182,
+      "current": 5182
+    },
+    "brotli": {
+      "prev": 4621,
+      "current": 4621
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/toggle-selection.********.js": {
+    "raw": {
+      "prev": 570,
+      "current": 570
+    },
+    "gzip": {
+      "prev": 381,
+      "current": 381
+    },
+    "brotli": {
+      "prev": 303,
+      "current": 303
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/toposort.********.js": {
+    "raw": {
+      "prev": 1207,
+      "current": 1207
+    },
+    "gzip": {
+      "prev": 624,
+      "current": 624
+    },
+    "brotli": {
+      "prev": 556,
+      "current": 556
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/use-callback-ref.********.js": {
+    "raw": {
+      "prev": 607,
+      "current": 607
+    },
+    "gzip": {
+      "prev": 363,
+      "current": 363
+    },
+    "brotli": {
+      "prev": 321,
+      "current": 321
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/use-composed-ref.********.js": {
+    "raw": {
+      "prev": 408,
+      "current": 408
+    },
+    "gzip": {
+      "prev": 285,
+      "current": 285
+    },
+    "brotli": {
+      "prev": 240,
+      "current": 240
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/use-isomorphic-layout-effect.********.js": {
+    "raw": {
+      "prev": 234,
+      "current": 234
+    },
+    "gzip": {
+      "prev": 202,
+      "current": 202
+    },
+    "brotli": {
+      "prev": 165,
+      "current": 165
+    }
+  },
+  "bliss-apps/joy-web/web/content/testfile.********.js": {
+    "raw": { "prev": 273, "current": 273 },
+    "gzip": { "prev": 233, "current": 233 },
+    "brotli": { "prev": 183, "current": 183 }
+},
+  "bliss-apps/joy-web/web/static/webpack/vendor/use-sidecar.********.js": {
+    "raw": {
+      "prev": 1342,
+      "current": 1342
+    },
+    "gzip": {
+      "prev": 678,
+      "current": 678
+    },
+    "brotli": {
+      "prev": 608,
+      "current": 608
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/webfontloader.********.js": {
+    "raw": {
+      "prev": 12319,
+      "current": 12319
+    },
+    "gzip": {
+      "prev": 4917,
+      "current": 4917
+    },
+    "brotli": {
+      "prev": 4333,
+      "current": 4333
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/webpack.********.js": {
+    "raw": {
+      "prev": 441,
+      "current": 441
+    },
+    "gzip": {
+      "prev": 276,
+      "current": 276
+    },
+    "brotli": {
+      "prev": 225,
+      "current": 225
+    }
+  },
+  "bliss-apps/joy-web/web/static/webpack/vendor/yup.********.js": {
+    "raw": {
+      "prev": 32998,
+      "current": 32998
+    },
+    "gzip": {
+      "prev": 9494,
+      "current": 9494
+    },
+    "brotli": {
+      "prev": 8563,
+      "current": 8563
+    }
+  },
+  "bliss-apps/joy-web/web/vendors~content/app.********.js": {
+    "raw": {
+      "prev": 110264,
+      "current": 110264
+    },
+    "gzip": {
+      "prev": 36021,
+      "current": 36021
+    },
+    "brotli": {
+      "prev": 26291,
+      "current": 26291
+    }
+  },
+  "bliss-apps/joy-web/web/vendors~content/app~content/ssr.********.js": {
+    "raw": {
+      "prev": 443137,
+      "current": 443137
+    },
+    "gzip": {
+      "prev": 134033,
+      "current": 134033
+    },
+    "brotli": {
+      "prev": 111331,
+      "current": 111331
+    }
+  },
+  "bliss-apps/joy-web/web/vendors~static/webpack/vendor/auth0-js.********.js": {
+    "raw": {
+      "prev": 122105,
+      "current": 122105
+    },
+    "gzip": {
+      "prev": 35894,
+      "current": 35894
+    },
+    "brotli": {
+      "prev": 31156,
+      "current": 31156
+    }
+  },
+  "bliss-apps/joy-web/web/vendors~static/webpack/vendor/filestack-js.********.js": {
+    "raw": {
+      "prev": 257869,
+      "current": 257869
+    },
+    "gzip": {
+      "prev": 71552,
+      "current": 71552
+    },
+    "brotli": {
+      "prev": 59805,
+      "current": 59805
+    }
+  },
+  "bliss-apps/joy-web/web/vendors~static/webpack/vendor/lottie-web.********.js": {
+    "raw": {
+      "prev": 256474,
+      "current": 256474
+    },
+    "gzip": {
+      "prev": 64428,
+      "current": 64428
+    },
+    "brotli": {
+      "prev": 53943,
+      "current": 53943
+    }
+  }
+}
